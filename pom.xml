@@ -17,12 +17,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://18.213.116.177:8081/repository/Venkat-snapshots/</url>
+		    <url>http://44.200.142.113:8081/repository/batch14-repo-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://18.213.116.177:8081/repository/venkat-release/</url>
+		    <url>http://44.200.142.113:8081/repository/batch14-repo-release/</url>
 		</repository>
   	</distributionManagement>
 
